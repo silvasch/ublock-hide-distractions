@@ -1,0 +1,16 @@
+! Title: Block Distractions
+! Description: Block distractions like youtube, reddit, ...
+! Version: 1.0.0
+! Last modified: 2024-01-29 08:29
+! Homepage: https://github.com/silvasch/ublock-hide-distractions
+! License: https://github.com/silvasch/ublock-hide-distractions/blob/master/LICENSE
+
+youtube.com
+reddit.com
+sopuli.xyz
+beehaw.org
+lemmy.ml
+lemm.ee
+orteil.dashnet.org
+krunker.io
+github.com
