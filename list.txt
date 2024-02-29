@@ -14,3 +14,5 @@ lemm.ee
 orteil.dashnet.org
 krunker.io
 github.com
+gitlab.com
+hostpoint.ch
