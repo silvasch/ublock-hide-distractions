@@ -13,6 +13,11 @@ lemmy.ml
 lemm.ee
 orteil.dashnet.org
 krunker.io
+
 github.com
 gitlab.com
 hostpoint.ch
+
+rust-lang.org
+docs.rs
+
