@@ -16,6 +16,8 @@ krunker.io
 
 github.com
 gitlab.com
+codeberg.org
+
 hostpoint.ch
 
 rust-lang.org
